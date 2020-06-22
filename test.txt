@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2706-AC69
+
+ Directory of C:\Users\Eswar\Desktop\MyProject
+
+06/22/2020  11:34 AM    <DIR>          .
+06/22/2020  11:34 AM    <DIR>          ..
+06/22/2020  11:34 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  174,047,858,688 bytes free
